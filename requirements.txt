@@ -1,0 +1,6 @@
+configcat-client==9.0.4
+h2==4.1.0
+openai==1.55.3
+python-dotenv==1.0.1
+pytz==2024.2
+supabase==2.9.1
